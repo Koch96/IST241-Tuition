@@ -2,7 +2,7 @@
 package tuition;
 
 
-//@author sak5680
+/** @author sak5680 */
 
 public class Tuition {
 
