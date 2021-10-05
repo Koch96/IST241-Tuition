@@ -13,4 +13,12 @@ public class Student {
     public void setID(String id){
         studentID = id;
     }
+    
+    public String getName() {
+        return name;
+    }
+    
+    public String getID() {
+        return studentID;
+    }
 }
