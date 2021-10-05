@@ -1,8 +1,6 @@
 package tuition;
 
-/*
-    @author sak5680
-*/
+/** @author sak5680 */
 public class Student {
     private String name;
     private String studentID;
